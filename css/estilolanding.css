@@ -1,0 +1,16 @@
+@font-face {
+    font-family: Podkova-VariableFont_wght;
+    src: url('../fontes/Podkova-VariableFont_wght.ttf');	
+}
+
+body {
+    font-family: Podkova-VariableFont_wght,Arial !important;
+}
+
+footer{
+	color: black
+}
+
+div {
+	color:black
+}

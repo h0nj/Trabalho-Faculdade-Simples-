@@ -1,0 +1,39 @@
+@font-face {
+    font-family: Podkova-VariableFont_wght;
+    src: url('../fonte/Podkova-VariableFont_wght.ttf');	
+}
+
+body {
+    font-family: Podkova-VariableFont_wght,Arial !important;
+    background-color: #FFF0F5;
+}
+
+.card {
+	margin-right: 19px;
+	
+}
+
+.card2 {
+	margin-bottom: -80px;
+}
+
+.card3 {
+	margin-top: -30px;
+	margin-bottom: -5px;
+}
+
+h2 {
+	color: red;
+	font-weight: bolder;
+}
+
+h1 {
+	font-weight: bolder;
+	margin-bottom: 375px;
+	margin-left: 105px;
+}
+
+.aah {
+	vertical-align: sub;
+}
+
